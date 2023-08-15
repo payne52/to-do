@@ -1,0 +1,14 @@
+{
+  "name": "todo-list",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
